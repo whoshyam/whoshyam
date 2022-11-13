@@ -18,4 +18,4 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=whoshyam&show_icons=true&theme=dark&locale=en&layout=compact" alt="whoshyam" />
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=whoshyam&theme=dark" alt="whoshyam" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=whoshyam&theme=dark" alt="whoshyam" /></p>
