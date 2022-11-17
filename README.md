@@ -1,11 +1,11 @@
  <h1 align="center">Hey 👋, I'm shyam kumar</h1>
-<h3 align="center">NOOB...</h3>
+<h3 align="center">....</h3>
 
 - 🤝 I’m looking for help with **DSA and flutter.**
 
 - 📫 How to reach me **shyamk2712@gmail.com**
 
-- ⚡ Fun fact **gaming or .... xd**
+- ⚡ Fun fact **gaming or .... XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
