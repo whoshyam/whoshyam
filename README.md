@@ -25,7 +25,7 @@
 
 <p align="center">
 <img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=whoshyam&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/>
-<img height="180em" width="331em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&layout=compact&hide=html&theme=radical)](https://git.io/streak-stats"/>
-</p>
+<img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&hide=TeX&layout=compact&theme=dark&hide)](https://git.io/streak-stats"/>
 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoshyam&label=Profile%20views&color=0e75b6&style=flat" alt="whoshyam" />
