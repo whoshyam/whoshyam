@@ -24,7 +24,8 @@
 
 
 <p align="center">
-<img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=whoshyam&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/>
+<!-- <img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=whoshyam&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/> -->
+ [![github stats](https://github-readme-stats.vercel.app/api?username=whoshyam&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 <img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&hide=TeX&layout=compact&theme=dark&hide)](https://git.io/streak-stats"/>
 
 </p>
