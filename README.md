@@ -30,4 +30,5 @@
 <img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&hide=TeX&layout=compact&theme=dark&hide)](https://git.io/streak-stats"/>
 
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoshyam&label=Profile%20views&color=0e75b6&style=flat" alt="whoshyam" />
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoshyam&label=Profile%20views&color=0e75b6&style=flat" alt="whoshyam" />
+-->
