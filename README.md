@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm shyam kumar</h1>
 
-- I’m currently learning **Flutter, python .**
+- I’m currently learning **Flutter .**
 - I’m looking to collaborate on **Flutter .**
 - I’m looking for help with **Open Source .**
 - How to reach me [shyamk2712@gmail.com](shyamk2712@gmail.com)
