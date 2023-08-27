@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm shyam kumar</h1>
+<h1 align="center">Hi , I'm Shyam Kumar</h1>
 
 - I’m currently learning **Flutter .**
 - I’m looking to collaborate on **Flutter .**
