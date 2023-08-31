@@ -23,12 +23,19 @@
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-<p align="left">
+<p align="center">
+ <!-- streak stats -->
 <!-- <img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=whoshyam&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/> -->
- <!--[![github stats](https://github-readme-stats.vercel.app/api?username=whoshyam&count_private=true&show_icons=true&theme=nord&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;-->
- 
-<img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&hide=TeX&layout=compact&theme=dark&hide)](https://git.io/streak-stats"/>
 
+ <!--most lang stats-->
+<img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&hide=TeX&layout=compact&theme=radical&hide_border=true)](https://git.io/streak-stats"/>
+
+<!--github stats-->
+<img src = "https://github-readme-stats.vercel.app/api?username=whoshyam&show_icons=true&theme=radical&hide_border=false" width = 400>
+
+<!-- visitors-->
+<!--
 </p>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoshyam&label=Profile%20views&color=0e75b6&style=flat" alt="whoshyam" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=whoshyam&label=Profile%20views&color=0e75b6&style=flat" alt="whoshyam" />
 -->
+
