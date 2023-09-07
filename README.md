@@ -10,6 +10,7 @@
  <a href="https://www.linkedin.com/in/shyam-kumar-83b54b224/" alt="Linkedin"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/linkedin.svg"></a>
     <a href="https://github.com/whoshyam" alt="GitHub"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/github.svg"></a>
     <a href="https://www.instagram.com/whoshyam__/" alt="Instagram"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/instagram.svg"></a>
+    <!--<a href="https://leetcode.com/whoshyam/" alt="Leetcode"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/leetcode.svg"></a>-->
 
 </p>
 
