@@ -26,14 +26,12 @@
 
 
 <p align="center">
- <!-- streak stats -->
+<!-- streak stats -->
 <!-- <img height="180em" width="331em" src="https://github-readme-streak-stats.herokuapp.com?user=whoshyam&theme=dark&hide_border=true&fire=DD2727)](https://git.io/streak-stats"/> -->
-
+ 
  <!--most lang stats-->
-<img height="180em" width="331em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&hide=TeX&layout=compact&theme=radical&hide_border=true)](https://git.io/streak-stats"/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoshyam&layout=compact&hide=html&theme=radical)
 
-<!--github stats-->
-<img src = "https://github-readme-stats.vercel.app/api?username=whoshyam&show_icons=true&theme=radical&hide_border=false" width = 400>
 </p>
 <!-- visitors
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoshyam&label=Profile%20views&color=0e75b6&style=flat" alt="whoshyam" />
