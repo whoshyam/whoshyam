@@ -5,11 +5,6 @@
 - I’m looking for help with **Open Source .**
 - How to reach me [shyamk2712@gmail.com](shyamk2712@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://www.linkedin.com/in/shyam-kumar-83b54b224/" alt="Linkedin"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/linkedin.svg"></a>
-    <a href="https://github.com/whoshyam" alt="GitHub"><img border-radius="50%" width="40px" height="35px" margin-left="25px" src="https://unpkg.com/simple-icons@5.0.0/icons/github.svg"></a>
-
 </p>
 
 <h2 align="left" style="color:white;" >Tech Stack</h2>
